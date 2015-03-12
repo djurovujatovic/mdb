@@ -115,5 +115,8 @@ h1#logo a { float:left; width:239px; height:49px; background:url('images/logo.gi
 
 #footer a:hover.designby { color:#9c9c9c; text-decoration:none; }
 
+.movie_details { height: 400px; }
+
+.movie_details p { padding-bottom: 15px; width: 90%; }
 
 
